@@ -1,0 +1,61 @@
+cybersecurity-lab/
+│
+├── README.md
+├── LAB_OVERVIEW.md
+├── NETWORK_DIAGRAM.png
+│
+├── 00-setup/
+│   ├── virtualbox-config.md
+│   ├── network-architecture.md
+│   └── ip-plan.md
+│
+├── 01-opnsense/
+│   ├── firewall-rules.md
+│   ├── nat-config.md
+│   ├── dhcp-config.md
+│   └── screenshots/
+│
+├── 02-windows-server/
+│   ├── active-directory-setup.md
+│   ├── users-groups.md
+│   ├── gpo-config.md
+│   ├── domain-join-steps.md
+│   └── screenshots/
+│
+├── 03-kali-attacks/
+│   ├── recon/
+│   │   ├── nmap/
+│   │   ├── enum4linux/
+│   │   └── gobuster/
+│   │
+│   ├── exploitation/
+│   │   ├── smb/
+│   │   ├── web/
+│   │   └── metasploit/
+│   │
+│   ├── post-exploitation/
+│   │   ├── privilege-escalation/
+│   │   ├── credential-access/
+│   │   └── lateral-movement/
+│   │
+│   └── screenshots/
+│
+├── 04-traffic-analysis/
+│   ├── wireshark-captures/
+│   ├── packet-analysis-notes.md
+│   └── pcaps/
+│
+├── 05-vulnerabilities/
+│   ├── findings.md
+│   ├── vulnerability-reports/
+│   └── risk-assessment.md
+│
+├── 06-reports/
+│   ├── pentest-report-template.md
+│   ├── target1-report.md
+│   └── target2-report.md
+│
+└── tools/
+    ├── commands-cheatsheet.md
+    ├── scripts/
+    └── automation/
