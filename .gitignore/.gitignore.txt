@@ -1,0 +1,48 @@
+# Ignore logs
+#.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore VirtualBox files
+*.vdi
+*.vbox-prev
+
+# Ignore VMware files
+*.vmdk
+*.vmem
+*.nvram
+
+# Ignore Hyper-V files
+*.vhdx
+
+# Ignore Kali / Linux swap files
+*.swp
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore node modules
+nod_modules/
+
+# Ignore environment files
+.env
+
+# Ignore ISO images
+*.iso
+
+# Ignore compressed archives
+*.zip
+*.7z
+*.rar
+
+
+
+
+
