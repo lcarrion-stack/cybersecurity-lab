@@ -1,0 +1,13 @@
+# Nmap 7.99 scan initiated Mon May 25 15:40:33 2026 as: /usr/lib/nmap/nmap --privileged -sn -oN scans/nmap/host_discovery.txt 192.168.10.0/24
+Nmap scan report for OPNsense.internal (192.168.10.1)
+Host is up (0.0016s latency).
+MAC Address: 08:00:27:9D:90:5B (Oracle VirtualBox virtual NIC)
+Nmap scan report for 192.168.10.10
+Host is up (0.0015s latency).
+MAC Address: 08:00:27:0C:CA:BB (Oracle VirtualBox virtual NIC)
+Nmap scan report for 192.168.10.47
+Host is up (0.0014s latency).
+MAC Address: 08:00:27:FE:81:04 (Oracle VirtualBox virtual NIC)
+Nmap scan report for 192.168.10.55
+Host is up.
+# Nmap done at Mon May 25 15:40:35 2026 -- 256 IP addresses (4 hosts up) scanned in 2.55 seconds
