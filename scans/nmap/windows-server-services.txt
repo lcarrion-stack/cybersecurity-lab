@@ -1,0 +1,2 @@
+# Nmap 7.99 scan initiated Sun Jul  5 16:36:36 2026 as: /usr/lib/nmap/nmap --privileged -sV -O -oN scans/nmap/windows-server-services.txt 192.168.100.10
+# Nmap done at Sun Jul  5 16:36:40 2026 -- 1 IP address (0 hosts up) scanned in 3.30 seconds
